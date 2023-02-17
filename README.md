@@ -51,7 +51,7 @@ el osciloscopio.
 ![3_11zon](https://user-images.githubusercontent.com/117873786/219537101-ced98748-cf00-46f2-80ce-adff402e03b3.png)
 
 
-# BIBLIOGRAFÍA
+# VIDEO
 
 https://uespe-my.sharepoint.com/✌️/g/personal/dxguallpa_espe_edu_ec/EU_lT-EqwDJGkMzbENqsZEABMefeY93uqkZPUlKUORxzPw?e=SE40Lm
 
