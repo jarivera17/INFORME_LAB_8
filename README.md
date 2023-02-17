@@ -46,6 +46,11 @@ el osciloscopio.
 
 ## Responda las siguientes preguntas:
 
+![1_11zon](https://user-images.githubusercontent.com/117873786/219537092-00f458d9-ed7e-4680-9333-d1c3502db474.png)
+![2_11zon](https://user-images.githubusercontent.com/117873786/219537098-523e3708-43f8-410b-b930-7441c1e5b3f8.png)
+![3_11zon](https://user-images.githubusercontent.com/117873786/219537101-ced98748-cf00-46f2-80ce-adff402e03b3.png)
+
+
 # BIBLIOGRAFÍA
 
 https://uespe-my.sharepoint.com/✌️/g/personal/dxguallpa_espe_edu_ec/EU_lT-EqwDJGkMzbENqsZEABMefeY93uqkZPUlKUORxzPw?e=SE40Lm
