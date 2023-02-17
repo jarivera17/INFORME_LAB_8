@@ -46,10 +46,9 @@ el osciloscopio.
 
 ## Responda las siguientes preguntas:
 
-![1_11zon](https://user-images.githubusercontent.com/117873786/219537092-00f458d9-ed7e-4680-9333-d1c3502db474.png)
-![2_11zon](https://user-images.githubusercontent.com/117873786/219537098-523e3708-43f8-410b-b930-7441c1e5b3f8.png)
-![3_11zon](https://user-images.githubusercontent.com/117873786/219537101-ced98748-cf00-46f2-80ce-adff402e03b3.png)
-
+![LAB 8 (4)_page-0001](https://user-images.githubusercontent.com/117873786/219684712-77a1c4e5-6f4d-49b0-85f2-f8697db0bc74.jpg)
+![LAB 8 (4)_page-0002](https://user-images.githubusercontent.com/117873786/219684717-a4a77352-bf2c-4240-a783-248fcadb773a.jpg)
+![LAB 8 (4)_page-0003](https://user-images.githubusercontent.com/117873786/219684720-3b6ad307-745a-471c-b551-d8dec5fb3fa2.jpg)
 
 # VIDEO
 
