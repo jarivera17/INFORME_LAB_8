@@ -42,6 +42,8 @@ el osciloscopio.
 
 ![image](https://user-images.githubusercontent.com/116693260/219527984-8165edbc-b1bc-42ba-914a-c5258588990d.png)
 
+![image](https://user-images.githubusercontent.com/116693260/219528206-b1aad043-f0c7-4f86-873a-b2067e24d376.png)
+
 ## Responda las siguientes preguntas:
 
 # BIBLIOGRAFÍA
